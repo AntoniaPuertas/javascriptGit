@@ -1,2 +1,2 @@
 # javascriptGit
- Calculadora en javascirpt
+ Varios ejemplos básicos de utilización de JavaScript
